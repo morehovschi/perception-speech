@@ -1,5 +1,5 @@
 # perception-speech
-Marius and Caleb's Speech Task project in Advanced Perception
+Marius and Caleb's Speech Task project in CS 497: Advanced Perception taught by Bruce Maxwell at Colby College in the fall of 2019.
 
 Jupyter Notebook files provided demonstrating training and performance of networks trained on mel spectrograms and on raw sound files.
 
